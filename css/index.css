@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(to top right, white 650px, #dbb5f5 650px);
+}
+
+
+.nav-items{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: -35px;
+
+}
+
+.signin-btn{
+    margin-left: 80%;
+    margin-top: -30px;   
+    padding: 8px;
+    width: 120px;
+    border-radius: 40px;
+    background: linear-gradient(85deg, #965cf2, #fd89dd);
+    
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.nav-item{
+    color: #242c77;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: px;
+}
+
+.brand-1{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.signin-btn{
+    margin-top: -5px;
+}
+
+.introimg{
+    margin-left: 600px;
+    margin-top: -370px;   
+}
+
+.left-section{
+    margin-top: 130px;
+    margin-left: 40px;
+}
+
+#web-1{
+    font-family: sans-serif;
+    font-size: 80px;
+    color: #242c77;
+}
+
+#lorem-1{
+    font-family: sans-serif;
+    width: 600px;
+    margin-top: 30px;
+    font-weight: lighter;
+    color: #7b7e9b;
+}
+
+.learn-more-btn{
+    margin-top: 40px;
+    margin-left: 80px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 30px;
+    font-size: larger;
+    color: white;
+    background: linear-gradient(85deg, #965cf2, #fd89dd);
+    border: none;
+}
+
+.vector-img{
+    
+    margin-left: 400px;
+    margin-bottom: -210px;
+}
+
