@@ -2,9 +2,9 @@
 
 ## By Sujal
 
-## [Link for Project 1](https://proj-8-web-design.netlify.app/) 
+## [Link for Project 8](https://project-8-mobile-responsive.netlify.app/) 
 
-![project 1 completed](./Screenshot_2.png)
+![project 8 completed](./Screenshot_2.png)
 
 ## What I learned ? How was my experience while making this project?
 
